@@ -537,5 +537,12 @@
     "description": " Lets you bolt on enterprise SSO, directory sync, and audit logs in minutes—no wrestling with SAML/OIDC specs. All your user-management headaches handled via a simple REST/SDK interface",
     "pairedWith": "",
     "link": "https://workos.com/"
+  },
+  {
+    "tool": "agent-qa",
+    "category": "Dev Tooling",
+    "description": "Write Web, Android and iOS tests in natural language, then reuse validated lessons with persistent memidex memory and self-improvement. CLI and MCP interfaces bring QA into developer and coding-agent workflows.",
+    "pairedWith": "",
+    "link": "https://vostride.com"
   }
 ]
