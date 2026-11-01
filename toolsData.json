@@ -231,6 +231,13 @@
     "link": "https://jam.dev/"
   },
   {
+    "tool": "Kilobat CLI",
+    "category": "Dev Tooling, Networking",
+    "description": "Find the network, proxy, DNS, IP or server layer behind a failed API connection before changing code. GPL-3.0-only CLI/TUI with JSON and local stdio MCP for macOS 14+; source builds require Xcode 16+.",
+    "pairedWith": "Local MCP clients",
+    "link": "https://github.com/seifip/kilobat-cli"
+  },
+  {
     "tool": "Koyeb",
     "category": "AI Inference, PaaS, Serverless/Edge computing",
     "description": "Global serverless platform for running Docker containers and web services and ai models",
